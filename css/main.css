@@ -1,0 +1,30 @@
+.bg {
+  background-color: #1c1c1c;
+  color: #a8dc3f;
+  padding: 15px 0; }
+
+body {
+  font-family: "Raleway",sans-serif;
+  font-size: 14px;
+  line-height: 1.42857;
+  color: #9c9c9c;
+  box-sizing: border-box; }
+
+.nav {
+  background-color: rgba(0, 0, 0, 0.5); }
+
+.nav a {
+  position: relative;
+  display: inline-block;
+  padding: 0;
+  color: #fff;
+  line-height: 1.2;
+  font-size: 14px;
+  font-weight: 500; }
+
+.nav a:hover {
+  background: #a8dc3f;
+  transition: 250ms;
+  border-radius: 25px; }
+
+/*# sourceMappingURL=main.css.map */
