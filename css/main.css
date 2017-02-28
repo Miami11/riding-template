@@ -1,3 +1,8 @@
+* {
+  padding: 0;
+  margin: 0;
+  list-style: none; }
+
 .bg {
   background-color: #1c1c1c;
   color: #a8dc3f;
@@ -26,5 +31,71 @@ body {
   background: #a8dc3f;
   transition: 250ms;
   border-radius: 25px; }
+
+.textG h2 {
+  text-align: center; }
+
+.spG {
+  display: block; }
+
+.spG div {
+  float: left;
+  text-align: left;
+  letter-spacing: 0.02em;
+  line-height: 1.42857; }
+
+.dateColor {
+  color: #9c9c9c;
+  font-size: 14px; }
+
+.footer {
+  background-color: #1c1c1c; }
+
+.date {
+  padding-top: 0;
+  padding-left: 12px; }
+
+.date a {
+  font-size: 14px;
+  color: white;
+  font-weight: 700;
+  text-decoration: none; }
+
+.sp img {
+  border-radius: 50%; }
+
+.group-tags a:after {
+  content: '|';
+  color: #eeeeee;
+  padding-left: 7px;
+  opacity: 0.22; }
+
+.group-xs a {
+  text-decoration: none;
+  color: white; }
+
+.holder img {
+  width: 100%; }
+
+.footer li:before {
+  osition: absolute;
+  top: -3px;
+  left: 0;
+  content: '\f238';
+  display: inline-block;
+  color: #a8dc3f;
+  font-family: "Material Design Icons";
+  font-size: 18px;
+  font-weight: 400;
+  padding-right: 6px; }
+
+.ftitle {
+  color: white; }
+
+.sp {
+  width: 25%; }
+
+.date {
+  width: 75%; }
 
 /*# sourceMappingURL=main.css.map */
